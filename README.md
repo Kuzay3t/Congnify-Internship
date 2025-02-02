@@ -8,14 +8,13 @@ This repository holds the tasks, projects, and assignments I completed during my
 
 ## 🚀 Features  
 
-- **Task 1:** Data cleaning and analysis with Python  
-- **Task 2:** Machine learning models implementation  
-- **Task 3:** Python scripting for automation  
-- **Task 4:** Data visualization using Matplotlib and Seaborn  
-- **Task 5:** Web scraping and data extraction  
-- **Task 6:** Model evaluation and optimization  
-- **Task 7:** Deployment of models (if applicable)  
-- Each task is accompanied by a detailed explanation of the approach and code 
+- Data cleaning and analysis with Python  
+- Machine learning models implementation  
+- Python scripting for automation  
+- Data visualization using Matplotlib and Seaborn  
+- Web scraping and data extraction  
+- Model evaluation and optimization  
+- Deployment of models (if applicable)  
+Each task is accompanied by a detailed explanation of the approach and code 
 
----
 
